@@ -1,4 +1,3 @@
-//! Copyright [2019] "Isac de Souza Campos"
 #include <cstdint>
 #include <stdexcept>
 

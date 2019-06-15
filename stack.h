@@ -1,7 +1,3 @@
-//! Copyright [2019] "Isac de Souza Campos"
-// #ifndef STRUCTURES_LINKED_STACK_H
-// #define STRUCTURES_LINKED_STACK_H
-
 #include <cstdint>
 #include <stdexcept>
 
@@ -139,5 +135,3 @@ std::size_t LinkedStack<T>::size() const {
 }
 
 }  // namespace structures
-
-// #endif
